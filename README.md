@@ -91,10 +91,9 @@ Projects that we can get inspired:
 * https://github.com/japgolly/clear-config
 * http://www.haskellforall.com/2016/12/dhall-non-turing-complete-configuration.html?m=1
 
-#### A few gists that may be useful.
+#### A few other projects and gists that can be useful.
 
-Design sketch on having an applicative way of composing config parameters
-* https://gist.github.com/afsalthaj/74c91b2aef2a253d2126ad8b2eafb277
+* https://github.com/ajevans85/scala-simple-env-config
 
 Finding the tree structure of config parameters from case class (shapeless)
 * https://gist.github.com/afsalthaj/2e019e81e22a89f6dc49047e0cefd30e
